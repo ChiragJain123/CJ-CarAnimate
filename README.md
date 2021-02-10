@@ -1,2 +1,2 @@
 # CJ-CarAnimate
-> Link to this Project is: https://chiragjain123.github.io/CJ-CarAnimate/
+> Link to this Project is: https://coderchirag.github.io/CJ-CarAnimate/
